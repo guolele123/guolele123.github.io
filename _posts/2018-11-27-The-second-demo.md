@@ -9,7 +9,9 @@ tags:
 
 * Pic1 Lau
 ![Lau Preview](imgs/lau.png)
-![Lau Preview](https://github.com/guolele123/guolele123.github.io/blob/master/imgs/lau.png)
+![Lau Preview](guolele123.github.io/imgs/lau.png)
+
+      
 
 * Pic2 AraonSwartz
 ![AraonSwartz Preview](Aaron_Swartz.jpg)
