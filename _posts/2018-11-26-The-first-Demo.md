@@ -2,9 +2,9 @@
 title: 2018年第一个博客
 description: 天行健，君子以自强不息；地势坤，君子以厚德载物
 categories:
- - Test
+ - Demo
 tags: 
- - newDemo
+ - Demo
 ---
 Install everything
 
